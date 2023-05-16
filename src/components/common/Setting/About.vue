@@ -49,7 +49,7 @@ onMounted(() => {
           此网站由
           <a
             class="text-blue-600 dark:text-blue-500"
-            href="https://github.com/Chanzhaoyu/chatgpt-web"
+            href="https://siax.cn/"
             target="_blank"
           >
             丨浅笑安然丨
